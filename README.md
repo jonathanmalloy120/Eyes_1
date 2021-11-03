@@ -8,3 +8,5 @@ Pull down the entire repository, then drag index.html into a browser tab. The ex
 1. A user interface that will allow the user to change the color of the eyes, pupils, and background.
 2. A way for the user to change the shape of the eyes from ovals to other, more elaborate shapes such as triangles, squares, etc.
 3. Make code available that will make it easy to embed these eyes into another web page so others can use them in their pages. 
+
+This program is coded and distributed according to MIT license. MIT License: A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
